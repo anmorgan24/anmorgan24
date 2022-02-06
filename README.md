@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/anmorgan24/anmorgan24/blob/main/Box_Cover.png)
+
 <!--
 **anmorgan24/anmorgan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
