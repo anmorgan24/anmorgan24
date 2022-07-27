@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/anmorgan24/anmorgan24/blob/main/white_banner.png)
+![](https://github.com/anmorgan24/anmorgan24/blob/main/gh_background_3.png)
 
 <!--
 **anmorgan24/anmorgan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
